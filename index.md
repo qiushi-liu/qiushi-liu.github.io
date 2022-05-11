@@ -1,1 +1,1 @@
-Hello! I am a PhD student of the [QICI group](https://qici.weebly.com/) at the Department of Computer Science, the University of Hong Kong.
+Hello! I am a PhD student of the [QICI group](https://qici.weebly.com/) at the Department of Computer Science, the University of Hong Kong. You can find my personal proflie [here](https://qici.weebly.com/qiushi-liu.html).
