@@ -1,9 +1,3 @@
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-
 ---
 permalink: /
 title: "About me"
