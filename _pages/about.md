@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 ---
 permalink: /
 title: "About me"
@@ -6,12 +12,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
 
 Welcome to my personal homepage! I am a PhD student of the [QICI group](https://qici.weebly.com/) at the Department of Computer Science, The University of Hong Kong (HKU). I obtained my M.Sc. in Physics at ETH Zurich and my B.Sc. in Physics at Peking University.
 
