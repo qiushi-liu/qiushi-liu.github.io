@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! I am a Postdoctoral Researcher at Perimeter Institute, supervised by [Sisi Zhou](https://sisi-zhou.github.io/){: style="text-decoration: none;" }. I obtained my PhD at The University of Hong Kong, supervised by [Yuxiang Yang](https://yangyx09.github.io/){: style="text-decoration: none;" } and [Giulio Chiribella](https://scholar.google.com/citations?user=4ob0VU4AAAAJ){: style="text-decoration: none;" }. I obtained my M.Sc. in Physics at ETH Zurich and my B.Sc. in Physics at Peking University.
+Welcome to my personal homepage! I am a Postdoctoral Researcher at Perimeter Institute for Theoretical Physics, supervised by [Sisi Zhou](https://sisi-zhou.github.io/){: style="text-decoration: none;" }. I obtained my PhD at The University of Hong Kong, supervised by [Yuxiang Yang](https://yangyx09.github.io/){: style="text-decoration: none;" } and [Giulio Chiribella](https://scholar.google.com/citations?user=4ob0VU4AAAAJ){: style="text-decoration: none;" }. I obtained my M.Sc. in Physics at ETH Zurich and my B.Sc. in Physics at Peking University.
 
 I work on quantum information theory. My research interests include quantum metrology, quantum control and quantum foundations.
 
